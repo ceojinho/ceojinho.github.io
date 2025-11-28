@@ -204,9 +204,9 @@
     const script = document.createElement('script');
     script.src = 'https://giscus.app/client.js';
     script.setAttribute('data-repo', 'ceojinho/ceojinho.github.io');
-    script.setAttribute('data-repo-id', 'YOUR_REPO_ID'); // TODO: 실제 repo-id로 교체 필요
+    script.setAttribute('data-repo-id', 'R_kgDOQec2gA'); // TODO: 실제 repo-id로 교체 필요
     script.setAttribute('data-category', 'General');
-    script.setAttribute('data-category-id', 'YOUR_CATEGORY_ID'); // TODO: 실제 category-id로 교체 필요
+    script.setAttribute('data-category-id', 'DIC_kwDOQec2gM4CzIzc'); // TODO: 실제 category-id로 교체 필요
     script.setAttribute('data-mapping', 'pathname');
     script.setAttribute('data-strict', '0');
     script.setAttribute('data-reactions-enabled', '1');
